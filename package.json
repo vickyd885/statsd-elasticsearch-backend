@@ -22,6 +22,7 @@
     "node": ">=0.8"
   },
   "dependencies": {
+    "fs": "0.0.1-security",
     "named-regexp": "^0.1.1"
   },
   "devDependencies": {},
